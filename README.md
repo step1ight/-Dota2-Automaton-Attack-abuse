@@ -10,7 +10,7 @@
 2. Зайти в Dota2 --> Мини игра "Атака автоматонов" --> Нажать "Играть" --> Нажать на цифру "1".
 3. Для удобства можно поставить в настройках Dota2 "В окне без рамки" чтобы видеть окно скрипта. (Не обязательно)
 
-Цифра "1" на клавиатуре - запуск скрипта. Цифры "2" - остановка скрипта.
+Цифра "1" на клавиатуре - запуск скрипта. Цифры "2" - остановка скрипта. Win 10/11
 --------------------------------------------------------------------------------------------------------------------------------
 [ENG]
 Dota 2 "Automaton Attack" mini-game exploit. The script spams a list of letters found in the names of heroes and items at a rate of 10,000 characters per second. There is no CPU load because the script does not emulate keystrokes; it inputs the necessary letters directly into the system. It does not interact with the game in any way, does not read RAM, and the ban probability is zero. It is written in Python and compiled into an application.
@@ -20,6 +20,6 @@ Launch Guide:
 2. Go into Dota 2 --> "Automaton Attack" mini-game --> Click "Play" --> Press the number "1".
 3. For convenience, you can set Dota 2 to "Borderless Window" in the settings so you can see the script window. (Optional)
 
-The number "1" on the keyboard starts the script. The number "2" stops the script.
+The number "1" on the keyboard starts the script. The number "2" stops the script. Win 10/11
 --------------------------------------------------------------------------------------------------------------------------------
 <img width="979" height="1026" alt="image" src="https://github.com/user-attachments/assets/b174b08d-4e65-4fde-86b0-737567ae020a" />
