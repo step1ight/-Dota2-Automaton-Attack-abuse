@@ -21,4 +21,5 @@ Launch Guide:
 3. For convenience, you can set Dota 2 to "Borderless Window" in the settings so you can see the script window. (Optional)
 
 The number "1" on the keyboard starts the script. The number "2" stops the script.
+--------------------------------------------------------------------------------------------------------------------------------
 <img width="979" height="1026" alt="image" src="https://github.com/user-attachments/assets/b174b08d-4e65-4fde-86b0-737567ae020a" />
